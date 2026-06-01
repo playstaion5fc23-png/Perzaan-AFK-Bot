@@ -8,7 +8,7 @@
   "server": {
     "ip": "ServerVanill1.aternos.me",
     "port": 39038,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
